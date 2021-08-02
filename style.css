@@ -1,0 +1,16 @@
+.game_square {
+  width: 150px;
+  height: 150px;
+  border: 1px solid brown;
+}
+
+.play_area {
+  display: grid;
+  height: 500px;
+  width: 500px;  
+  grid-template-columns: auto auto auto;
+};
+
+h1 {
+  color: red;
+}
